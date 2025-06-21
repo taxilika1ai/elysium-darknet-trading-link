@@ -107,4 +107,6 @@ Click below to access Elysium Market and start your shopping experience using th
 
 
 
-Update:  17 June Asset links
+
+
+Update:  21.06.2025 08:43 url is now accessible and functioning
