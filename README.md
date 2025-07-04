@@ -115,4 +115,6 @@ Click below to access Elysium Market and start your shopping experience using th
 
 
 
-Update:  26.06.2025 08:44 Links fixed
+
+
+Update: url is now clickable and accessible
